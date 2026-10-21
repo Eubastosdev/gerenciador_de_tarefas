@@ -61,7 +61,7 @@ curso-de-react/
 ### 1. Clone o repositório
 
 ```bash
-git clone URL_DO_SEU_REPOSITORIO
+git clone https://github.com/Eubastosdev/gerenciador_de_tarefas.git
 ```
 
 ### 2. Acesse a pasta
